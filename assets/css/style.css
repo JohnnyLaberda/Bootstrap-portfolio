@@ -1,0 +1,52 @@
+body { 
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 34px;
+    color: #777;
+  background: url("https://www.toptal.com/designers/subtlepatterns/qbkls-pattern/");
+  }
+
+  * {
+      box-sizing: border-box;
+      margin: 0;
+  }
+  navbar navbar-expand-lg: {
+      background: white;
+  }
+  nav button {
+      color: white;
+  }
+  nav a {
+    color: gray;
+  }
+  nav a:hover,
+  input[type=submit]:hover {
+      color: white;
+}
+navbarNav:hover {
+    color: #617e3f
+}
+
+  .container { 
+     
+      margin: 3px auto;
+     
+  }
+
+  h1 h2 h3 {
+      font-family: Georgia, Times, "Times New Roman", serif;
+      font-weight: 700;
+      color: #0f1111;
+  }
+
+  h1 {
+      padding-bottom: 10px;
+      font-size: 25px;
+      line-height: 44px;
+      border-bottom: 2px solid black;
+      }
+
+
+  
+      
+  
